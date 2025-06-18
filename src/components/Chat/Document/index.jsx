@@ -1,0 +1,6 @@
+export {default as DocumentIndex} from './DocumentIndex'
+export {default as CreateDocument} from './CreateDocument'
+export {default as DocumentCard} from './DocumentCard'
+export {default as EditDocument} from './EditDocument'
+export {default as Document} from './Document'
+export {default as DomainIndex} from './Domain/DomainIndex'
